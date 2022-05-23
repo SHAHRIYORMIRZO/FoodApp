@@ -27,6 +27,9 @@ function App() {
       <main>
         <Meals />
       </main>
+      <footer style={{textAlign: 'center', color: 'white'}}>
+        Copyright by <b>Shohriyormirzo</b>
+      </footer>
     </CartProvider>
   );
 }
